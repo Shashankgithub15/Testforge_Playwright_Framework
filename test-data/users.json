@@ -1,0 +1,13 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "firstname": "Shashank",
+    "lastname": "sharma",
+    "zipcode": "247001"
+  },
+  "invalidUser": {
+    "username": "locked_out_user",
+    "password": "wrong_pass"
+  }
+}
